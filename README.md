@@ -1,0 +1,2 @@
+# openshorts
+Clipo Generation
